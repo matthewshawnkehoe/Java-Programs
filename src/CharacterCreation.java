@@ -1,8 +1,5 @@
 /*
  	Matthew Kehoe
- 	CIS 2151 - Prof. John P. Baugh
- 	Summer 2014
- 	Assignment #4 - Capstone Project
 */
 
 import javax.swing.*;
